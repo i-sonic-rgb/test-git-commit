@@ -2,6 +2,6 @@
 
 Description
 
-- first thesis
+- a thesis
 - second thesis
 - third thesis
